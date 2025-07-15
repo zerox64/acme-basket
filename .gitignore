@@ -1,0 +1,9 @@
+/vendor/
+
+.phpunit.result.cache
+/coverage/
+
+/phpstan.cache
+
+/.docker/
+/docker-compose.override.yml
