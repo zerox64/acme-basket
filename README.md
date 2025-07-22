@@ -13,7 +13,7 @@ A modular PHP basket system implementing discount strategies and delivery rules.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ben9114/acme-basket.git
+git clone https://github.com/zerox64/acme-basket.git
 cd acme-basket
 ```
 
